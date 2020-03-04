@@ -1,6 +1,6 @@
 # cryptography
 
-It contains implementation of various cryptographic algorithmns.
+It contains implementation of various cryptographic algorithmns in cpp.
 1. playfair-
  -It contains both encyrption and decryption algorithm
  -INPUT: key, plaintext
